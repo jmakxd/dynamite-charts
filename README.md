@@ -1,6 +1,6 @@
 # Dynamite Charts by Jmak 自製譜整合
 
-Newest Chart Update 最新譜面更新： USAO ULTIMATE HYPER MEGA MIX, AImee, GIMME DA BLOOD, Dancer in the Smoke
+Newest Chart Update 最新譜面更新： 428 Dance Showcase, 終桜散華, USAO ULTIMATE HYPER MEGA MIX, AImee
 
 Test Play Method 測玩方法：https://docs.google.com/document/d/1-1ydDVTnuJO2g49b-9FFa9vXiAFRLGUEK4ullHnD2fU/edit#heading=h.o98ov37a3wxg
 
